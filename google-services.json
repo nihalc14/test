@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81368537423",
+    "firebase_url": "https://cochise-fb234.firebaseio.com",
+    "project_id": "cochise-fb234",
+    "storage_bucket": "cochise-fb234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81368537423:android:ed6bdff56be23c3b",
+        "android_client_info": {
+          "package_name": "com.unifyed.cochiseu8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81368537423-i47uouuorurto1r705baq4rf5h3n0427.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRI6d5yjfUCusD1Yqv1rtagOK9nT1V4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81368537423-i47uouuorurto1r705baq4rf5h3n0427.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
