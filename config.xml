@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.unifyed.cochiseu8" version   = "2.0.5" ios-CFBundleVersion = "1.0.0">
+        id = "com.unifyed.cochiseunifyed" version   = "2.0.5" ios-CFBundleVersion = "1.0.0">
         <name>Cochise College</name>
         <description>Cochise College U8</description>
         <author href="http://kryptosmobile.com" email="info@kryptosmobile.com">Kryptos Mobile Team</author>
